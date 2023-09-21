@@ -1,2 +1,2 @@
 # ArduinoCar
-Built and wired Arduino vehicle. Programmed it in C++ to avoid hitting obstacles using sensors, and to respond to an IR Remote.
+Built, wired and programmed an Arduino vehicle. Used C++ to program it to avoid hitting obstacles using its sensors, and to respond to an IR Remote.
